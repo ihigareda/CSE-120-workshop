@@ -1,7 +1,7 @@
 # Average Calculator Workshop Code Base
 
 ### Developers: 
-Ismiel & Jillian 
+Ismiel & Jillian blah
 
 This repository now supports a simplified workshop focusing on: FastAPI basics, adding a small NiceGUI frontend, test-driven iteration, and CI (GitHub Actions). The original Postgres + CRUD Todo example has been replaced to reduce cognitive load.
 
